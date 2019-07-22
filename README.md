@@ -12,7 +12,7 @@ This part mainly has following purposes:
 #### 2. Summary statistics
    --mean, median, sd 
    
-   --mean target value for each category: if this category only has a high mean value with few observations, this is due to random and we need to combine this catogory with other category, otherwise, this category is very important
+   --mean target value for each category: if this category has a high mean value with only few observations, this is due to random and we need to combine this catogory with other category, otherwise, this category is very important
    
 #### 3. Plots 
    --Investigate the features
