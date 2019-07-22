@@ -5,7 +5,7 @@ Movie Revenue Forecasting
 This part mainly has following purposes:
 
 #### 1. Preprocess the data
-   --Convert the data into a format we can use, since some columns are in JSON format, containing one or more dictionaries inside.
+   --Convert the data into a format we can use, since some columns are in JSON format, containing one or more dictionaries inside
    
    --Create new columns based on current information 
    
@@ -26,7 +26,7 @@ This part mainly has following purposes:
 #### 4. Data Issues and Data Cleaning
    --outliers
    
-   --noise
+   --noise value
   
    --missing value
    
